@@ -1,0 +1,11 @@
+Variables.- Forma en que se almacenan datos en JavaScript para ser recuperados o usados más tarde. 
+
+Strings.- Es un tipo de dato. Son bloques de texto que se definen entre comillas simples o dobles.
+
+Funciones.- Son un tipo particular de objeto llamado 'callabe object'. Sirven para agrupar código que será utilizado en repetidas ocasiones.
+    *Los argumentos son variables que se colocan entre paréntesis al declarar la funcion y pueden ser utilizados dentro de la misma.
+    *El comando 'return' se usa para pedirle a la función que devuelva algún valor. Al usar 'return' la función detiene lo que está computando y devuelve el valor que se le pide.
+
+Declaraciones if.- El comando de control de flujo if sirve para ejecutar distintas funciones si se cumplen las condiciones que declara.
+
+Valores booleanos.- Son conceptos que alimentan el código binario y significan que se cuenta con dos opciones. En JavaScript se usan para significar verdadero o falso.
