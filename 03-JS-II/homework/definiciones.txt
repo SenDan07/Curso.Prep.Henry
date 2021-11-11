@@ -1,0 +1,4 @@
+For:Es un tipo de bucle, un mecanismo que sirve para repetir una acción varias veces. El bucle for cuenta con una variable inicial, una condicional y un incremento y repite la acción desde la variable inicial hasta que la variable condicional sea false.
+&&: AND es un operador lógico que evalúa dos expresiones y arroja un true únicamente si ambas son true.
+||: OR es un operador lógico que evalúa dos expresiones y devuelve un true si una o ambas expresiones son true. Si las dos expresiones son false arrojará false.
+!: NOT es un operador lógico que devolverá el valor booleano opuesto al resultado de la expresión.
