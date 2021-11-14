@@ -1,0 +1,1 @@
+Arrays.- Un array es una colección o agrupación de elementos dentro de una misma variable que pueden contener todos los tipos de datos, incluidos otros arrays. Se invocan usando corchetes [].
