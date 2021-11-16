@@ -1,0 +1,6 @@
+Objetos: Son colecciones de propiedades que a su vez es una asociación de una clave o nombre y un valor.
+Propiedades: Son variables adjuntas a un objeto.
+Métodos: Son propiedades de un objeto que contienen una función.
+Bucle for...in: Se usa para objetos que no contienen índices numéricos. Es un bucle que itera sobre propiedades ennumerables de un objeto que no son símbolo.
+Notacion de punto: Es una manera de llamar a la propiedad de un objeto. EL nombre o valor de la propiedad debe ser literal.
+Notación de corchetes: Forma de llamar a la propiedad de un objeto, donde la consola buscará el valor o propiedad asociada a la variable asignada dentro de los corchetes.
