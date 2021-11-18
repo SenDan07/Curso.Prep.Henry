@@ -1,0 +1,2 @@
+prototype: Es un objeto al que se puede hacer referencia dentro de otro objeto o clase y que le hereda sus propiedades al objeto/clase creado.
+constructor: Es un método para crear un objeto dentro de una clase.
